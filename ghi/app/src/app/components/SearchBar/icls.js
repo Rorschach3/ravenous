@@ -1,0 +1,5 @@
+// Client ID
+clientId=H4mfMAu_QxtQM3i8tloZ2g
+
+// YELP API key
+YELP_API_KEY=bGUFUXszfq4PPppy6eB3L0y9kCfPlmQ0CE1h3jgttqg6kEURVnQDK9P7iuu6VpEybd5lvbgB5visIUFlt71NR5zFxqy_zXs7zRKdlDBsNP4D930pfnXf832wPCmdZHYx
